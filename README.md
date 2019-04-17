@@ -1,0 +1,2 @@
+# cpuinfo
+cat /proc/cpuinfo
